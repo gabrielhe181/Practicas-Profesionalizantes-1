@@ -1,0 +1,51 @@
+.textoColoreado
+{
+    background-color: #EDD400;
+}
+
+.textoColoreadoVerde
+{
+    background-color: darkgreen;
+    font-weight: bold;
+}
+
+.textoColorEItaly
+{
+    color: blue;
+    font-style: italic;
+}
+
+.textoNegrita
+{
+    
+    font-weight:bold;
+}
+
+.textoSubrallado
+{
+    text-decoration: underline;
+}
+
+.textoSubralladoYNegrita
+{
+    text-decoration: underline;
+    font-weight:bold;
+}
+
+.textoSubralladoYNegritaEItaly
+{
+    text-decoration: underline;
+    font-weight:bold;
+    font-style: italic;
+}
+
+.textoRojoItalic
+{
+    color: red;
+    font-style: italic;
+}
+
+.textoNormal
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
